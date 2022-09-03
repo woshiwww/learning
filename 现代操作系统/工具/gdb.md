@@ -44,8 +44,6 @@ int main()
 
 得到一个界面，输入run即可运行整个程序直到结束，因为还没有加入断点。
 
-<img src="https://raw.githubusercontent.com/woshiwww/picgo/main/imgs/202203282032587.png" alt="image-20220328203247528" style="zoom:80%;" />
-
 如果是带参数的调试，只需要在run后面添加相应的参数即可。
 
 ### 添加断点
